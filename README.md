@@ -6,12 +6,13 @@
 
 #### Using VS Code :
 
-Setup: 
+##### Setup: 
 
 Download VS Code Extension
 
 ![Extension Markdown PDF](./images/Markdown%20PDF.png)
-Usage:
+
+##### Usage:
 
 1. Git Clone.
 2. Edit the template.
