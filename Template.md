@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; text-align: center;">
+<div style="display: flex; flex-direction: column; text-align: center; height: 1000px;">
     <div style="display: flex; justify-content: center;">
         <img title="KMITL Logo" src="./images/KMITL Logo.png" width="300" height="300" style="padding: 0 auto;">
     </div>
